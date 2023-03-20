@@ -1,12 +1,5 @@
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
 
-=======
-<<<<<<< HEAD
-=======
-=======
->>>>>>> f92e296a5268ed8143a4ab4827b955a3e5637a6b
 
 	"nombre": "Juan",
 	"apellido": "Cantos"
@@ -36,7 +29,6 @@
 			"nombre":"Danny",
 			"apellido":"Tamami"
 		}	
-	
->>>>>>> 735d4d34f090afb64839ab8afc0183bfbda01338
+
 	}
 }
