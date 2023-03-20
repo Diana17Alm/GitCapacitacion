@@ -1,16 +1,21 @@
 {
 	"PASANTES":{
-	{
-	"nombre": "Juan",
-	"apellido": "Cantos"
-	},
-	{
-	"nombre" : "Diana"
-	"apellido" : "Almeida"
-	},
-	{
-	"nombre":"Mayra",
-	"apellido":"Ñaupari"
-	}	
+		{
+			"nombre": "Juan",
+			"apellido": "Cantos"
+		},
+		{
+			"nombre" : "Diana"
+			"apellido" : "Almeida"
+		},
+		{
+			"nombre":"Mayra",
+			"apellido":"Ñaupari"
+		},		
+		{
+			"nombre":"Danny",
+			"apellido":"Tamami"
+		}	
+	
 	}
 }
