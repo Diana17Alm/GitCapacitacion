@@ -5,11 +5,11 @@
 	"apellido": "Cantos"
 
 =======
-	"Nombre" : "Diana"
-	"Apellido" : "Almeida"
+	"nombre" : "Diana"
+	"apellido" : "Almeida"
 
-	"Nombre":"Mayra",
-	"Apellido":"Ñaupari"
+	"nombre":"Mayra",
+	"apellido":"Ñaupari"
 >>>>>>> d48d081f28bfa0e727a918978b5107715c02928b
 
 	
