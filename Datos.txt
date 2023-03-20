@@ -1,16 +1,16 @@
 {
-<<<<<<< HEAD
-
+	"PASANTES":{
+	{
 	"nombre": "Juan",
 	"apellido": "Cantos"
-
-=======
+	},
+	{
 	"nombre" : "Diana"
 	"apellido" : "Almeida"
-
+	},
+	{
 	"nombre":"Mayra",
 	"apellido":"Ñaupari"
->>>>>>> d48d081f28bfa0e727a918978b5107715c02928b
-
-	
+	}	
+	}
 }
