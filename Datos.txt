@@ -1,17 +1,14 @@
 {
-<<<<<<< HEAD
-
 	"nombre": "Juan",
-	"apellido": "Cantos"
-	"edad": "23"
+	"apellido": "Cantos",
 
-=======
 	"nombre" : "Diana"
-	"apellido" : "Almeida"
+	"apellido" : "Almeida",
 
 	"nombre":"Mayra",
-	"apellido":"Ñaupari"
->>>>>>> d48d081f28bfa0e727a918978b5107715c02928b
+	"apellido":"Ñaupari",
 
-	
+	"nombre":"Danny",
+	"apellido":"Tamami",
+	}
 }
