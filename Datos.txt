@@ -11,8 +11,6 @@
 	"Apellido":"Ñaupari",
 	"Cedula":"1726895160"
 
-
-
 	"PASANTES":{
 		{
 			"nombre": "Juan",
@@ -30,7 +28,6 @@
 			"nombre":"Danny",
 			"apellido":"Tamami"
 		}	
-
 	
 	}
 }
