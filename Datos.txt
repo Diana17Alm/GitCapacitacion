@@ -3,6 +3,7 @@
 
 	"nombre": "Juan",
 	"apellido": "Cantos"
+	"edad": "23"
 
 =======
 	"nombre" : "Diana"
