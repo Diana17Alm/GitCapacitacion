@@ -1,6 +1,4 @@
 {
-<<<<<<< HEAD
-=======
 
 	"nombre": "Juan",
 	"apellido": "Cantos"
@@ -13,9 +11,6 @@
 	"Apellido":"Ñaupari",
 	"Cedula":"1726895160"
 
-
-
->>>>>>> e5b2dc3ee261de6760648a2e7850b4544653d4d9
 	"PASANTES":{
 		{
 			"nombre": "Juan",
@@ -33,10 +28,6 @@
 			"nombre":"Danny",
 			"apellido":"Tamami"
 		}	
-<<<<<<< HEAD
-=======
-
->>>>>>> e5b2dc3ee261de6760648a2e7850b4544653d4d9
 	
 	}
 }
