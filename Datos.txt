@@ -1,7 +1,8 @@
 {
 
-	"nombre": "Juan",
-	"apellido": "Cantos"
+
+	"Nombre": "Juan",
+	"Apellido": "Cantos",
 
 
 	"Nombre" : "Diana"
@@ -29,6 +30,6 @@
 			"nombre":"Danny",
 			"apellido":"Tamami"
 		}	
-	
+
 	}
 }
