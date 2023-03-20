@@ -1,6 +1,4 @@
 {
-
-
 	"Nombre": "Juan",
 	"Apellido": "Cantos",
 
