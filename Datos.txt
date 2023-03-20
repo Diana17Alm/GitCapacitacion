@@ -1,13 +1,15 @@
 {
-
-
 	"Nombre": "Juan",
 	"Apellido": "Cantos",
 
 
 	"Nombre" : "Diana"
 	"Apellido" : "Almeida"
+<<<<<<< HEAD
 	"Direccion":"Ferroviaria"
+=======
+	"Dirección" : "Carlos Alvarez E679"
+>>>>>>> 02c3b000e860b766d3dc412638679d236c2378d2
 
 	"Nombre":"Mayra",
 	"Apellido":"Ñaupari",
