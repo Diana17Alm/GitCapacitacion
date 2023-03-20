@@ -1,10 +1,10 @@
 {
-
 	"Nombre": "Juan",
 	"Apellido": "Cantos",
 
 	"Nombre" : "Diana"
 	"Apellido" : "Almeida"
+	"Dirección" : "Carlos Alvarez E679"
 
 	"Nombre":"Mayra",
 	"Apellido":"Ñaupari",
@@ -28,5 +28,4 @@
 			"apellido":"Tamami",
 			"cedula": "1751514082"
 		}	
-	}
 }
