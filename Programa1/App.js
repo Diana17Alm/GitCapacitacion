@@ -8,6 +8,7 @@ export default function App() {
     <View style={styles.container}>
       <Text>Aplicacion de Prueba</Text>
       <Text>Texto para aportar al conflicto</Text>
+      <Text>Ahora nuevo texto para prueba de ramas</Text>
       <Text style={styles.tituloPrincipal}>CAPACITACION DE GIT</Text>
       <Image
         source={{ uri: 'https://es.wizcase.com/wp-content/uploads/2022/03/GitHub-Logo.png' }}
