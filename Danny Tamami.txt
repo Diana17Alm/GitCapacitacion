@@ -1,4 +1,3 @@
 {
-	"nombre": "Danny",
-	"apellido": "Tamami",
+	"apellido": "Tamami"
 }
