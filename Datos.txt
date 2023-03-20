@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
 
 	"nombre": "Juan",
 	"apellido": "Cantos"
 
+=======
+	"Nombre" : "Diana"
+	"Apellido" : "Almeida"
+>>>>>>> d48d081f28bfa0e727a918978b5107715c02928b
 }
