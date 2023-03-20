@@ -1,11 +1,11 @@
 import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
+import { StyleSheet, Text, View, Image } from 'react-native';
 
 export default function App() {
   return (
     <View style={styles.container}>
       <Text>Aplicacion de Prueba</Text>
-      <Text style={styles.tituloPrincipal}>CAPACITACIÓN DE GIT</Text>
+      <Text style={styles.tituloPrincipal}>CAPACITACIï¿½N DE GIT</Text>
       <Image
         source={{ uri: 'https://es.wizcase.com/wp-content/uploads/2022/03/GitHub-Logo.png' }}
         style={{ width: 200, height: 200 }}
