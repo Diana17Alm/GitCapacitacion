@@ -1,11 +1,5 @@
 import { StatusBar } from 'expo-status-bar';
-<<<<<<< HEAD
 import { StyleSheet, Text, View, Image, TouchableOpacity} from 'react-native';
-
-=======
-import { StyleSheet, Text, View, Image } from 'react-native';
-import { TouchableOpacity } from 'react-native';
->>>>>>> 127ffeb90e3f38d804f565175751320715742c4e
 
 //Comentario para aportar algo al conflicto
 
