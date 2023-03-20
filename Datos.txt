@@ -1,9 +1,7 @@
 {
 
-
 	"Nombre": "Juan",
 	"Apellido": "Cantos",
-
 
 	"Nombre" : "Diana"
 	"Apellido" : "Almeida"
@@ -27,8 +25,8 @@
 		},		
 		{
 			"nombre":"Danny",
-			"apellido":"Tamami"
+			"apellido":"Tamami",
+			"cedula": "1751514082"
 		}	
-
 	}
 }
