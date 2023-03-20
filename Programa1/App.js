@@ -7,10 +7,13 @@ import { StyleSheet, Text, View, Image } from 'react-native';
 import { TouchableOpacity } from 'react-native';
 >>>>>>> 127ffeb90e3f38d804f565175751320715742c4e
 
+//Comentario para aportar algo al conflicto
+
 export default function App() {
   return (
     <View style={styles.container}>
       <Text>Aplicacion de Prueba</Text>
+      <Text>Texto para aportar al conflicto</Text>
       <Text style={styles.tituloPrincipal}>CAPACITACION DE GIT</Text>
       <Image
         source={{ uri: 'https://es.wizcase.com/wp-content/uploads/2022/03/GitHub-Logo.png' }}
