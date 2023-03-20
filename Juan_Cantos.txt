@@ -1,5 +1,4 @@
 {
-	"nombre": "Juan",
 	"apellido": "Cantos"
 
 }
